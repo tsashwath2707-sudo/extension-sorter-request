@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*.local
+*.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+venv/
+.venv/
+env/
+*.log
+.vscode/
+.idea/

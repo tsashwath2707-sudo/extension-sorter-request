@@ -1,0 +1,36 @@
+======================================================================
+                 EXTENSION REQUEST SORTER - SUMMARY REPORT             
+======================================================================
+
+Total Requests Processed: 22
+
+--- BREAKDOWN BY RECOMMENDATION ---
+  * needs_faculty_review     :   8  ( 36.4%)
+  * needs_more_info          :   5  ( 22.7%)
+  * within_policy            :   9  ( 40.9%)
+
+--- BREAKDOWN BY REASON CATEGORY ---
+  * medical                  :  10  ( 45.5%)
+  * technical                :   4  ( 18.2%)
+  * family                   :   2  (  9.1%)
+  * event                    :   2  (  9.1%)
+  * workload                 :   2  (  9.1%)
+  * other                    :   2  (  9.1%)
+
+--- BREAKDOWN BY COURSE ---
+  * CS101                    :   3  ( 13.6%)
+  * Unspecified / Missing    :   3  ( 13.6%)
+  * MATH101                  :   2  (  9.1%)
+  * CS102                    :   2  (  9.1%)
+  * CS201                    :   2  (  9.1%)
+  * ENG101                   :   2  (  9.1%)
+  * CS202                    :   2  (  9.1%)
+  * AI101                    :   2  (  9.1%)
+  * PHY101                   :   1  (  4.5%)
+  * CHEM101                  :   1  (  4.5%)
+  * MATH102                  :   1  (  4.5%)
+  * HIST201                  :   1  (  4.5%)
+
+======================================================================
+Note: Recommendations are advisory. Faculty make all final decisions.
+======================================================================

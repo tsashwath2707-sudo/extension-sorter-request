@@ -1,0 +1,23 @@
+request_id,student_id,course,days,reason,summary,recommendation,policy_notes
+REQ001,STU1001,CS101,2,medical,"Requests 2 days for CS101, medical reason",within_policy,Meets standard criteria (<= 3 days for verified medical cause)
+REQ002,STU1002,MATH101,3,family,"Requests 3 days for MATH101, family reason",within_policy,Meets standard criteria (<= 3 days for verified family cause)
+REQ003,STU1003,CS102,2,technical,"Requests 2 days for CS102, technical reason",within_policy,Meets standard criteria (<= 3 days for verified technical cause)
+REQ004,STU1004,CS201,2,event,"Requests 2 days for CS201, event reason",needs_faculty_review,Reason category 'event' requires individual instructor judgment
+REQ005,STU1005,ENG101,2,workload,"Requests 2 days for ENG101, workload reason",needs_faculty_review,Reason category 'workload' requires individual instructor judgment
+REQ006,STU1006,PHY101,1,medical,"Requests 1 days for PHY101, medical reason",within_policy,Meets standard criteria (<= 3 days for verified medical cause)
+REQ007,STU1007,N/A,N/A,other,"Requests extension for coursework, unspecified reason",needs_more_info,"Missing required information (course code, exact number of days)"
+REQ008,STU1008,CHEM101,7,medical,"Requests 7 days for CHEM101, medical reason",needs_faculty_review,Requested days (7) exceeds standard policy threshold of 3
+REQ009,STU1009,N/A,3,technical,"Requests 3 days for coursework, technical reason",needs_more_info,Missing required information (course code)
+REQ010,STU1010,CS102,2,medical,"Requests 2 days for CS102, medical reason",within_policy,Meets standard criteria (<= 3 days for verified medical cause)
+REQ011,STU1011,CS202,3,family,"Requests 3 days for CS202, family reason",within_policy,Meets standard criteria (<= 3 days for verified family cause)
+REQ012,STU1012,AI101,4,technical,"Requests 4 days for AI101, technical reason",needs_faculty_review,Requested days (4) exceeds standard policy threshold of 3
+REQ013,STU1013,ENG101,3,event,"Requests 3 days for ENG101, event reason",needs_faculty_review,Reason category 'event' requires individual instructor judgment
+REQ014,STU1014,MATH102,10,medical,"Requests 10 days for MATH102, medical reason",needs_faculty_review,Requested days (10) exceeds standard policy threshold of 3
+REQ015,STU1015,HIST201,2,medical,"Requests 2 days for HIST201, medical reason",needs_faculty_review,Course code 'HIST201' not in official active catalog; requires administrative check
+REQ016,STU1016,CS101,1,workload,"Requests 1 days for CS101, workload reason",needs_faculty_review,Reason category 'workload' requires individual instructor judgment
+REQ017,STU1017,CS201,3,medical,"Requests 3 days for CS201, medical reason",within_policy,Meets standard criteria (<= 3 days for verified medical cause)
+REQ018,STU1018,CS101,N/A,other,Prompt injection detected; flagged for faculty evaluation,needs_more_info,Missing required information (exact number of days)
+REQ019,STU1019,MATH101,N/A,medical,"Requests extension for MATH101, medical reason",needs_more_info,Missing required information (exact number of days)
+REQ020,STU1020,AI101,2,medical,"Requests 2 days for AI101, medical reason",within_policy,Meets standard criteria (<= 3 days for verified medical cause)
+REQ021,STU1021,N/A,N/A,medical,"Requests extension for coursework, medical reason",needs_more_info,"Missing required information (course code, exact number of days)"
+REQ022,STU1022,CS202,2,technical,"Requests 2 days for CS202, technical reason",within_policy,Meets standard criteria (<= 3 days for verified technical cause)
